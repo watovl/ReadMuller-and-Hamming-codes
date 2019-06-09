@@ -1,0 +1,10 @@
+{
+	"McEliece" 	: {
+		"Hamming"	: 4,
+		"ReedMuller"	: [4, 2]
+	},
+	"Niederreiter" 	: {
+		"Hamming"	: 2,
+		"ReedMuller"	: [4, 1]
+	}
+}
